@@ -24,5 +24,5 @@ int main()
     int x = +2; // stored as 2
 
     // 4. Unary minus ---> negates the value of an operand.
-    int y = -6; // stored as -6 
+    int y = -6; // stored as -6
 }
