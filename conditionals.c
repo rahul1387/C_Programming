@@ -16,6 +16,6 @@ int main()
     }
     else
     {
-        printf("Invalid age"); 
+        printf("Invalid age!"); 
     } 
 }
