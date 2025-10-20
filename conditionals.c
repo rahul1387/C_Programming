@@ -13,7 +13,7 @@ int main()
     else if (age < 18)
     {
         printf("You cannot drive :(");
-    } 
+    }
     else
     {
         printf("Invalid age!");
