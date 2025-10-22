@@ -17,7 +17,6 @@ int main()
     }
     else
     {
-<<<<<<< HEAD
         printf("Invalid age \n");
     }
 
@@ -36,8 +35,5 @@ int main()
         2. Condition ? do Something if TRUE : condition ? do Something if TRUE : do Something if FALSE ---> This is like using if-else ladder.
     */
 }
-=======
-        printf("Invalid age!"); 
     }
 }
->>>>>>> fb834152bde0879a58ca497eb3bdc7560b778532
