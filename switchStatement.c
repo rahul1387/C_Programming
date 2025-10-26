@@ -19,7 +19,7 @@ int main(){
     case 4:
         printf("Thursday");
         break;
-    case 5:
+    case 5: 
         printf("Friday"); 
         break;
     case 6:
