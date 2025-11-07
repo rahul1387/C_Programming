@@ -14,4 +14,6 @@ int main(){
     else{
         printf("The number is not niven number");
     }
+    // Niven Number
+    // Using if-else and basic
 }
